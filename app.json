@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Srikanthreddy140/AutoFilterWithStream.",
-    "repository": "https://github.com/Srikanthreddy140/AutoFilterWithStream.",
+    "website": "https://github.com/Srikanthreddy140/AutoFilterWithStream",
+    "repository": "https://github.com/Srikanthreddy140/AutoFilterWithStream",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
