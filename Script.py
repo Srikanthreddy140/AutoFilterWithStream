@@ -149,7 +149,7 @@ Nᴀᴍᴇ - {}"""
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : Sʀɪᴋᴀɴᴛʜ
 • ᴜꜱᴇʀɴᴀᴍᴇ : @SrikanthCinemaSR
-                  @SrikanthMovies2 
+                  @NETFLIXSRMOVIES 
 
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/+cz-H7ov8chM0ZDc1'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
