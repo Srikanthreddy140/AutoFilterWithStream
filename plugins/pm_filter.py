@@ -733,7 +733,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                             reply_markup=InlineKeyboardMarkup(
                                 [
                                 [ 
-                                InlineKeyboardButton('Fᴀsᴛ Dᴏᴡɴʟᴏᴀᴅ / Wᴀᴛᴄʜ Oɴʟɪɴᴇ ', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
+                                InlineKeyboardButton('Movie Request Group', url="https://t.me/+KFATJalfnjFjYTJl") #Don't change anything without contacting me @LazyDeveloperr
                                 ]
                                 ]
                             )
